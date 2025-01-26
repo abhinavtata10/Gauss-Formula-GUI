@@ -1,1 +1,1 @@
-# Gauss-Formula-GUI
+I created an app containing tkinter that will calculate the sum of consecutive numbers between 2 positive integers. For example if the two entries are 1 and 10. For instance, this GUI will calculate 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55. It will print the sum "55".
